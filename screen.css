@@ -13,6 +13,8 @@ main{
 
 .masthead {
     background: no-repeat bottom / cover url('images/Computer\ image.png');
+    background-size: cover;
+    background-position: bottom;
     height: 250px;
     border-radius: 20px;
 }
@@ -34,7 +36,6 @@ main{
 
 img {
     width: 100%;
-    border-radius: 20px;
 }
 
 h2 {
